@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**B1scu1t-hub/B1scu1t-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on getting a project started to practice on.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning C++ & Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on literally anthing I can assist with! Please let me know how I can help; I am a beginner though.
+
+- 🤔 I’m looking for help with project inspiration.
+
+- 💬 Ask me about anime, video games, new technologies.
+
+- 📫 How to reach me: email, discord, twitter, etc.
+
+- ⚡ Fun fact: Soundsystem Culture will rise again.
+
